@@ -43,6 +43,3 @@ Pandas
 NumPy
 Scikit-learn
 Matplotlib
-## How to Run
-pip install -r requirements.txt
-jupyter notebook
